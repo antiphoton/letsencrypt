@@ -1,4 +1,4 @@
-This directory contains your keys and certificates.
+This directory will contain your keys and certificates.
 1. `privkey.pem`
    the private key for your certificate.
 1. `fullchain.pem`
